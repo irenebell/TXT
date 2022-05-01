@@ -1,0 +1,7 @@
+skill1: git,
+skill2: postman,
+skill3: python,
+skill4: jmeter,
+skill5: fiddler,
+skill6: charles,
+skill7: dbeaver

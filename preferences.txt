@@ -1,0 +1,4 @@
+Movie: Shining,
+food: pizza,
+season: summer,
+country: Italy
