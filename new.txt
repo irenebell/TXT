@@ -1,0 +1,4 @@
+Name: Betty,
+Age: 20,
+salary: 3000,
+home: UK
